@@ -1,32 +1,20 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
+# Arduino build files
+*.bin
+*.elf
+*.hex
+*.eep
+*.map
 *.a
-*.lib
 
-# Executables
-*.exe
-*.out
-*.app
+# Temporary files
+*.tmp
+*.log
+
+# Visual Studio Code settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
