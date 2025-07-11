@@ -1,4 +1,4 @@
-# Projet LoRa avec DHT11 et Firebase
+# Projet LoRa avec DHT11 
 
 Ce projet Arduino utilise un module LoRa pour recevoir des données de température et déclencher un buzzer en cas de dépassement de seuil.
 
