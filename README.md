@@ -1,8 +1,8 @@
-# Projet LoRa + ESP32 avec DHT11 et Firebase
+# Projet LoRa avec DHT11 et Firebase
 
 Ce projet Arduino utilise un module LoRa pour recevoir des données de température et déclencher un buzzer en cas de dépassement de seuil.
 
-L'arduino transmet aussi des données du capteur DHT11 vers Firebase Realtime Database et commande des LEDs selon les seuils.
+L'arduino transmet aussi des données du capteur DHT11 et commande des LEDs selon les seuils.
 
 ## Matériel utilisé
 - Module LoRa 433 MHz
