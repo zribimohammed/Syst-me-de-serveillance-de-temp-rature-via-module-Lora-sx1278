@@ -12,14 +12,8 @@ L'arduino transmet aussi des données du capteur DHT11 et commande des LEDs selo
 - LEDs
 
 ## Fonctionnalités
-- Réception LoRa et déclenchement buzzer
-- Envoi WiFi des données vers Firebase
+- Transmisiion et Réception LoRa et déclenchement buzzer
 - Contrôle des LEDs selon seuils température et humidité
-
-## Installation
-- Configurer le WiFi dans `WIFI_SSID` et `WIFI_PASSWORD`
-- Configurer Firebase dans `FIREBASE_HOST` et `FIREBASE_AUTH`
-- Télécharger les bibliothèques nécessaires dans Arduino IDE
 
 ## Auteur
 - Mohammed Zribi
